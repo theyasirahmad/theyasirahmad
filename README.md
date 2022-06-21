@@ -14,9 +14,7 @@ Yasir
 theyasirahmad
 
 🔥 Streak Stats
-theyasirahmad
-
-<img align="left" alt="theyasirahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theyasirahmad&show_icons=true&hide_border=true" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theyasirahmad&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
 🛠️ My Skills
