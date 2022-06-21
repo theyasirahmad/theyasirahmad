@@ -14,6 +14,9 @@ Yasir
 theyasirahmad
 <div align="center">
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theyasirahmad&label=Profile%20views&color=0e75b6&style=plastic" alt="theyasirahmad" /> </p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theyasirahmad&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 </div>
