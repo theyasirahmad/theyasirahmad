@@ -16,6 +16,9 @@ theyasirahmad
 🔥 Streak Stats
 theyasirahmad
 
+<img align="left" alt="theyasirahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theyasirahmad&show_icons=true&hide_border=true" />
+
+
 🛠️ My Skills
 👉 Programming languages
   C   C++   JavaScript   Java   Python   PHP
