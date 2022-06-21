@@ -12,11 +12,11 @@ Regards
 Yasir
 
 theyasirahmad
-<p align="center">
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theyasirahmad&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-</p>
+</div>
 
 <h3>Things I code with</h3>
 <p>
