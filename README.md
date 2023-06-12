@@ -4,13 +4,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Yasir+Ahmed;Web+Application+Developer;Mobile+Application+Developer;BLOCKCHAIN+Developer;Project+Manager;Technology+Consultant&center=true&width=500&height=50"></a>
 </p>
-I have 4+ years of experience in web and mobile application development. I have strong technical skills as well as strong communications skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems to name a few.
+I have 4+ years of experience in web and mobile application development. I have strong technical skills as well as strong communication skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems to name a few.
 
-I also have experience of working as Blockchain developer.
+I also have experience working as a Blockchain developer.
 
-From Decentralized finance projects to Decentralized social platform , I have rich experience in this field.
+From Decentralized finance projects to Decentralized social platforms, I have rich experience in this field.
 
-Developing Cryptocurrency financial systems and ecosystems, all kinds of NFT services (NFT games, NFT marketplaces and NFT social platforms). and Blockchain build projects on Ethereum, Binance Smart Contract, Solana, Polygon.
+Developing Cryptocurrency financial systems and ecosystems, all kinds of NFT services (NFT games, NFT marketplaces, and NFT social platforms). and Blockchain build projects on Ethereum, Binance Smart Contract, Solana, and Polygon.
 
 Regards
 Yasir
