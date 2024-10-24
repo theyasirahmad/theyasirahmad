@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Yasir+Ahmed;Web+Application+Developer;Mobile+Application+Developer;BLOCKCHAIN+Developer;Project+Manager;Technology+Consultant&center=true&width=500&height=50"></a>
 </p>
-I have 4+ years of experience in web and mobile application development. I have strong technical skills as well as strong communication skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems to name a few.
+I have 6+ years of experience in web and mobile application development. I have strong technical skills as well as strong communication skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems to name a few.
 
 I also have experience working as a Blockchain developer.
 
